@@ -1,8 +1,6 @@
 from math import sqrt
 
-print ( 
-    'Pythagorean Calculator, Calculate the hypotenuse based on sides a and b.'
-)
+print ( 'Pythagorean Calculator, Calculate the hypotenuse based on sides a and b.')
 side_a = int(input('Input the length of side a:'))
 side_b = int(input('Input the length of side b:'))
 
